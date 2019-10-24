@@ -4,6 +4,7 @@ import allure
 import pytest
 from appium import webdriver
 
+
 class TestContact:
 
     def test_contact1(self):
